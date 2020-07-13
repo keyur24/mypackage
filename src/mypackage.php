@@ -1,5 +1,5 @@
 <?php 
-namespace mypackage\mypackage;
+namespace mypackage\hellopackage;
 
 class Hello
 {
