@@ -1,0 +1,19 @@
+{
+    "name": "mypackage/hellopackage",
+    "description": "This is demo package",
+	"type": "package"
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Keyur Shah",
+            "email": "kshah@xento.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "mypackage\\mypackage\\": "src/"
+        }
+    }
+}
